@@ -1,0 +1,9 @@
+# ninja log v5
+1	1056	6969204678342642	CMakeFiles/shu.dir/main.cpp.obj	f59d7755c8e57a13
+995	1326	6969576489645341	zhongxin.cpp.exe	55b349cefb438380
+1059	1417	6969204681907169	shu.exe	60e61b9c6a4a36ed
+1	2036	6969523266853371	CMakeFiles/zhijing2.cpp.dir/zhijing2.cpp.obj	8351dc1995f1778c
+2036	2523	6969523271643778	zhijing2.cpp.exe	6b367bdbb57afd3
+3	993	6969576486369499	CMakeFiles/zhongxin.cpp.dir/zhongxin.cpp.obj	9eb3d3c0a82fdf35
+3	1020	6969216737919334	CMakeFiles/zhijing.cpp.dir/zhijing.cpp.obj	b2856c18348e5638
+1020	1330	6969216740943538	zhijing.cpp.exe	622da2779729329c

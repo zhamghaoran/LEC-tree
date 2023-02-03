@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "shu",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "lca.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lca.cpp-Debug-b33a200c38d8b63a8fad.json",
+					"name" : "lca.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shu-Debug-0050fedb8c7d92f200a9.json",
+					"name" : "shu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zhijing.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zhijing.cpp-Debug-f2624867f08d3b057bfb.json",
+					"name" : "zhijing.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zhijing2.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zhijing2.cpp-Debug-bac92755c110889992d9.json",
+					"name" : "zhijing2.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zhongxin.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zhongxin.cpp-Debug-31f4023bfffce85d05af.json",
+					"name" : "zhongxin.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/20179/CLionProjects/shu/cmake-build-debug",
+		"source" : "C:/Users/20179/CLionProjects/shu"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

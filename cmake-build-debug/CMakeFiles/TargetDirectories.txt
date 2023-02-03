@@ -1,0 +1,7 @@
+C:/Users/20179/CLionProjects/shu/cmake-build-debug/CMakeFiles/shu.dir
+C:/Users/20179/CLionProjects/shu/cmake-build-debug/CMakeFiles/zhijing.cpp.dir
+C:/Users/20179/CLionProjects/shu/cmake-build-debug/CMakeFiles/zhijing2.cpp.dir
+C:/Users/20179/CLionProjects/shu/cmake-build-debug/CMakeFiles/zhongxin.cpp.dir
+C:/Users/20179/CLionProjects/shu/cmake-build-debug/CMakeFiles/lca.cpp.dir
+C:/Users/20179/CLionProjects/shu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/20179/CLionProjects/shu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
